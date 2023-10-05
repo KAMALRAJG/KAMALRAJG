@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **007kamalraju@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/kamalraj-g-7a3211264](https://www.linkedin.com/in/kamalraj-g-7a3211264)
 
 <h3 align="left">Connect with me:</h3>
