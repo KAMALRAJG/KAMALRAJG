@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamalraj G</h1>
 <h3 align="center">A passionate python full stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.PcUTIKD7RU7PP0S66jrVJgHaFj?w=240&h=180&c=7&r=0&o=5&pid=1.7">
+<img align="right" alt="Coding" width="200" src="https://th.bing.com/th/id/OIP.PcUTIKD7RU7PP0S66jrVJgHaFj?w=240&h=180&c=7&r=0&o=5&pid=1.7">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalrajg&label=Profile%20views&color=0e75b6&style=flat" alt="kamalrajg" /> </p>
 
